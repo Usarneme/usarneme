@@ -1,8 +1,10 @@
 <h2 align="center"> 👋 &nbsp; Hi there &nbsp;👋&nbsp; </h2>
 <br />
-I'm Tom Geraghty (Usarneme) and this is my GitHub Portfolio!
-<br /><br />
-Here are my GitHub stats:
+
+### I'm Tom Geraghty (Usarneme) and this is my GitHub Portfolio!
+<br />
+
+### Here are my GitHub stats:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usarneme&show_icons=true&theme=nord)](https://github.com/usarneme/)
@@ -12,23 +14,24 @@ Here are my GitHub stats:
 
 ### 🔭 I love working with:
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
   &nbsp;
-  <img src="https://raster.shields.io/badge/CSharp-1212CC?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://raster.shields.io/badge/CSharp-1212CC?logo=c-sharp&logoColor=white&style=for-the-badge" alt="csharp-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" alt="jest-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="golang-logo" />
   &nbsp;
-  <img src="https://raster.shields.io/badge/Bash-119911?logo=Bash&logoColor=black&style=for-the-badge" />
+  <img src="https://raster.shields.io/badge/Bash-119911?logo=Bash&logoColor=black&style=for-the-badge" alt="bash-logo" />
+  &nbsp;
 </p>
 
 <br />
