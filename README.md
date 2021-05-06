@@ -28,6 +28,7 @@ Here are my GitHub stats:
   &nbsp;
   <img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   &nbsp;
+  <img src="https://raster.shields.io/badge/Bash-119911?logo=Bash&logoColor=black&style=for-the-badge" />
 </p>
 
 <br />
