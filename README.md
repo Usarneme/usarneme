@@ -1,11 +1,5 @@
-<h2 align="center"> 👋 &nbsp; Hi there &nbsp;👋&nbsp; </h2>
-<br />
-
-### I'm Tom Geraghty (Usarneme) and this is my GitHub Portfolio!
-<br />
-
-### Here are my GitHub stats:
-
+<h1 align="center"> 👋 &nbsp; Hi there &nbsp;👋&nbsp; </h1>
+<h2> I'm Tom Geraghty (Usarneme) and this is my GitHub Portfolio!</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usarneme&show_icons=true&theme=nord)](https://github.com/usarneme/)
 
@@ -18,6 +12,8 @@
   &nbsp;
   <img src="https://raster.shields.io/badge/CSharp-1212CC?logo=c-sharp&logoColor=white&style=for-the-badge" alt="csharp-logo" />
   &nbsp;
+  <img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="golang-logo" />
+  &nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
   &nbsp;
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo" />
@@ -28,9 +24,15 @@
   &nbsp;
   <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" alt="jest-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="golang-logo" />
+  <img src="https://raster.shields.io/badge/Bash-4040DD?logo=Shell&logoColor=white&style=for-the-badge" alt="bash-logo" />
   &nbsp;
-  <img src="https://raster.shields.io/badge/Bash-119911?logo=Bash&logoColor=black&style=for-the-badge" alt="bash-logo" />
+  <img src="https://raster.shields.io/badge/ExpressJS-782278?logo=express&logoColor=white&style=for-the-badge" alt="expressjs-logo" />
+  &nbsp;
+  <img src="https://raster.shields.io/badge/MongoDB-119911?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb-logo" />
+  &nbsp;
+  <img src="https://raster.shields.io/badge/Git-DD8855?logo=git&logoColor=white&style=for-the-badge" alt="git-logo" />
+  &nbsp;
+  <img src="https://raster.shields.io/badge/Linux-8899aa?logo=linux&logoColor=white&style=for-the-badge" alt="linux-logo" />
   &nbsp;
 </p>
 
