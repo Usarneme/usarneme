@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 &nbsp; Hi there &nbsp;👋&nbsp; </h1>
 <h2> I'm Tom Geraghty (Usarneme) and this is my GitHub Portfolio!</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usarneme&show_icons=true&theme=nord)](https://github.com/usarneme/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usarneme&show_icons=true&layout=compact&count_private=true&theme=nord&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usarneme&count_private=true&layout=compact&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usarneme&layout=compact&theme=nord)](https://github.com/usarneme/)
 <br />
 
 ### 🔭 I love working with:
