@@ -44,7 +44,7 @@
 
 ### 💬  &nbsp; Ask me about:
 
-* 🚙 &nbsp; The [Vehicle Maintenance Log Application](https://maint-log.herokuapp.com/welcome/) I made!
+* 🚙 &nbsp; The [Vehicle Maintenance Log Application](https://www.maintlog.net/welcome) I made!
 * 🐕‍🦺 &nbsp; The non-profit community engagement tools I've built!
 * 🎬 &nbsp; The [audio normalization utility](https://github.com/Usarneme/audio_normalize) I put together!
 
